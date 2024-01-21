@@ -1,0 +1,45 @@
+:root {
+    --color-primary: #757575;
+    --color-secondary: #212121;
+    --color-text-action: #FEFEFE;
+    --color-background-actiom: #2196F3;
+    --color-heading-title: #212121;
+}
+
+body {
+    color:var(--color-primary); 
+}
+
+.header-link {
+     color: var(--color-secondary);
+}
+
+.hero-title {
+    color: rgb(255, 255, 255);
+}
+#hero-title {
+    background-color: #2F303A;
+}
+
+.button {
+   background-color: #2196F3;
+   color: aliceblue;
+   border-radius: 4px;
+   cursor: pointer;
+}
+
+.body {
+    color:var(--color-primary);
+}
+.header-link {
+    color:var(--color-secondary);
+}
+
+.header-button {
+    color: var(--color-text-action);
+    background-color: var(--color-background-action);
+}
+
+.heading-tittle {
+    color: var() ;
+}
