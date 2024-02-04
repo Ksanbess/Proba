@@ -279,11 +279,14 @@ text-align: center;
 .body {
     color:var(--color-primary);
 }
-.header-link {
-    color:var(--color-secondary);
 
-.section{
+.header-link{
+ color: var(--color-primary);
+}
+
+.section {
     padding: 94px;
+    padding-bottom: 94px;
 }
 
 .header-link:hover {
